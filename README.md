@@ -25,4 +25,4 @@ Point the apex domain at GitHub Pages:
 | A     | @    | 185.199.109.153 |
 | A     | @    | 185.199.110.153 |
 | A     | @    | 185.199.111.153 |
-| CNAME | www  | PaulCharlton.github.io |
+| CNAME | www  | inevitable-systems.github.io |
