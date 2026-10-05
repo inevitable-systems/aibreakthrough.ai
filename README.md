@@ -5,7 +5,7 @@ GitHub Pages site for **aibreakthrough.ai**.
 ## Layout
 
 ```
-/                 redirects to the seed/angel investor brief PDF
+/                 redirects to the one-page brief PDF
 /intelligence/    redirects to the one-page brief PDF
 /explainers/      SAGE explainer videos (mp4 + poster frames)
 /investors/       redirects to the seed/angel investor brief PDF
